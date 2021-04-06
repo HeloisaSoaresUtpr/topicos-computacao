@@ -18,4 +18,4 @@ fs.readFile('ex3.txt', 'utf-8', (err, data) => {
     console.log(data);
 });
 
-console.log('end script');
+console.log('FINALLLL');
