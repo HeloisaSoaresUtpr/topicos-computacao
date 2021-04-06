@@ -10,4 +10,4 @@ const download = require('download');
 
     const execTime = new Date() - start;
     console.log(`Exec time: ${execTime} ms`);
-})();
+})();a
